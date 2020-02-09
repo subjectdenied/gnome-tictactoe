@@ -1,0 +1,4 @@
+data/com.subjectdenied.gnome-tictactoe.desktop.in
+data/com.subjectdenied.gnome-tictactoe.appdata.xml.in
+data/com.subjectdenied.gnome-tictactoe.gschema.xml
+src/window.ui
